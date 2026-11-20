@@ -1,31 +1,31 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240" width="1200" height="240" role="img" aria-label="熊阔彪 · 高级前端工程师">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240" width="1200" height="240" role="img" aria-label="polarbear · 高级前端工程师">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0d1117"/>
-      <stop offset="100%" stop-color="#111c2e"/>
+      <stop offset="0%" stop-color="#080512"/>
+      <stop offset="100%" stop-color="#160a24"/>
     </linearGradient>
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#58a6ff"/>
-      <stop offset="100%" stop-color="#2dd4bf"/>
+      <stop offset="0%" stop-color="#ff2a9d"/>
+      <stop offset="100%" stop-color="#00f0ff"/>
     </linearGradient>
     <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M40 0H0V40" fill="none" stroke="#58a6ff" stroke-opacity="0.08" stroke-width="1"/>
+      <path d="M40 0H0V40" fill="none" stroke="#a050ff" stroke-opacity="0.12" stroke-width="1"/>
     </pattern>
   </defs>
 
   <rect width="1200" height="240" fill="url(#bg)"/>
   <rect width="1200" height="240" fill="url(#grid)"/>
   <rect x="0" y="0" width="1200" height="4" fill="url(#accent)"/>
-  <circle cx="1080" cy="120" r="150" fill="#58a6ff" fill-opacity="0.06"/>
+  <circle cx="1080" cy="120" r="150" fill="#a050ff" fill-opacity="0.10"/>
 
   <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">
     <text x="64" y="58" fill="#7d8590" font-size="16" letter-spacing="4">GITHUB PROFILE · WEBXIONGDA</text>
-    <text x="60" y="124" fill="#f0f6fc" font-size="52" font-weight="700" letter-spacing="1">XIONG KUOBIAO</text>
-    <text x="64" y="166" fill="#c9d1d9" font-size="22" letter-spacing="2">熊阔彪 · 高级前端工程师 · 7 年+ 经验</text>
-    <text x="64" y="204" fill="#58a6ff" font-size="17" font-family="ui-monospace, SFMono-Regular, Menlo, monospace">React / TypeScript / Vue 3 / Taro / Node.js / Java</text>
+    <text x="60" y="124" fill="#f0f6fc" font-size="52" font-weight="700" letter-spacing="1">POLARBEAR</text>
+    <text x="64" y="166" fill="#c9d1d9" font-size="22" letter-spacing="2">高级前端工程师 · 7 年+ 经验</text>
+    <text x="64" y="204" fill="#00f0ff" font-size="17" font-family="ui-monospace, SFMono-Regular, Menlo, monospace">React / TypeScript / Vue 3 / Taro / Node.js / Java</text>
   </g>
 
-  <g transform="translate(1010 52)" fill="none" stroke="#58a6ff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" opacity="0.8">
+  <g transform="translate(1010 52)" fill="none" stroke="#ff2a9d" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" opacity="0.9">
     <path d="M28 8 L0 60 L28 112"/>
     <path d="M92 8 L120 60 L92 112"/>
     <path d="M72 2 L48 118"/>

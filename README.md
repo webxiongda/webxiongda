@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.svg" alt="熊阔彪 · 高级前端工程师" width="100%" />
+  <img src="assets/banner.svg" alt="polarbear · 高级前端工程师" width="100%" />
 </div>
 
 <p align="center">
@@ -10,7 +10,7 @@
 <p align="center">
   <a href="#精选项目">精选项目</a> ·
   <a href="#技术栈">技术栈</a> ·
-  <a href="#白熊数字科技">产品线</a> ·
+  <a href="#开源项目">开源项目</a> ·
   <a href="#关于">关于</a> ·
   <a href="#联系">联系</a>
 </p>
@@ -45,7 +45,7 @@
   <a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" /></a>
 </p>
 
-## 白熊数字科技
+## 开源项目
 
 面向商家的小程序产品线，覆盖 **美业预约 / 餐饮点单 / 家政接单 / 零售商城**：
 会员储值、排班收银、多门店与双端接单等完整业务链路。
