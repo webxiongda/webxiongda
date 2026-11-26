@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="assets/banner.svg?v=8" alt="polarbear · Full-stack Engineer" width="100%" />
-  <h1>熊阔彪 · polarbear</h1>
+  <img src="assets/banner.svg?v=8" alt="polarBear · Full-stack Engineer" width="100%" />
+  <h1>polarBear</h1>
   <p><strong>Senior Full-Stack Engineer · 8+ years · Builder, not just coder</strong></p>
   <p><samp>把复杂系统做简单，把重复工作做成工具。</samp></p>
 </div>
