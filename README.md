@@ -1,7 +1,7 @@
 <div align="center">
   <img src="assets/banner.svg" alt="polarbear · Full-stack Engineer" width="100%" />
   <h1>熊阔彪 · polarbear</h1>
-  <p><strong>Senior Full-Stack Engineer · 7+ years · Builder, not just coder</strong></p>
+  <p><strong>Senior Full-Stack Engineer · 8+ years · Builder, not just coder</strong></p>
   <p><samp>把复杂系统做简单，把重复工作做成工具。</samp></p>
 </div>
 
@@ -20,7 +20,7 @@
 
 ## 我是谁
 
-7 年+ 全栈工程师：后端写 Java / Spring Boot、Go、Node.js，前端写 React / TypeScript、Vue 3、Taro；擅长多端合一与复杂中后台系统，也习惯把重复劳动沉淀成能直接用的开发者工具。
+8 年+ 全栈工程师：后端写 Java / Spring Boot、Go、Node.js，前端写 React / TypeScript、Vue 3、Taro；擅长多端合一与复杂中后台系统，也习惯把重复劳动沉淀成能直接用的开发者工具。
 
 > 做事原则：**本地优先、隐私优先、可现场验证**。我做的工具尽量不上传数据，并附上可以直接玩的 Demo。
 
